@@ -22,7 +22,7 @@ Procedimento do jogo:
 
 7 - Ao final o Magic Trick descobrirá qual carta o jogador pensou
 
-Se você quiser jogar acesse o jogo:  https://camila-magic-trick.surge.sh/
+Se você quiser jogar, acesse o jogo:  https://camila-magic-trick.surge.sh/
 
 Caso você queira rodar localmente siga as instruções abaixo:
 
