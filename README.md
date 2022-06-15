@@ -32,9 +32,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [React Router](https://reactrouter.com/)
 - [styled-components](https://styled-components.com/)
 
-
-Caso você queira rodar localmente siga as instruções abaixo:
-
 ## Como executar o projeto localmente:
 
 1 - Primeiramente clone o projeto:
