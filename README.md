@@ -23,6 +23,16 @@ O jogo Magic Trick tem como objetivo adivinhar a carta que o usuário pensou.
 
 Se você quiser jogar, acesse o jogo:  https://camila-magic-trick.surge.sh/
 
+## Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [ReactJS](https://pt-br.reactjs.org/)
+- [axios](https://axios-http.com/ptbr/docs/intro)
+- [Deck of Cards API](https://deckofcardsapi.com/)
+- [React Router](https://reactrouter.com/)
+- [styled-components](https://styled-components.com/)
+
+
 Caso você queira rodar localmente siga as instruções abaixo:
 
 ## Como executar o projeto localmente:
