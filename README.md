@@ -1,11 +1,11 @@
 
-Projeto Magic Trick
+# Projeto Magic Trick
 
 O jogo Magic Trick tem como objetivo adivinhar a carta que o usuário pensou.
 
 ![MagicTrickGIF](https://user-images.githubusercontent.com/93163329/173887290-88898d8a-a62b-4cb4-9b69-ab0d10ac293b.gif)
 
-Procedimento do jogo:
+## Procedimento do jogo:
 
 1 - A mágica vai acontecer com um deck de 21 cartas
 
@@ -25,7 +25,7 @@ Se você quiser jogar, acesse o jogo:  https://camila-magic-trick.surge.sh/
 
 Caso você queira rodar localmente siga as instruções abaixo:
 
-Como executar o projeto localmente:
+## Como executar o projeto localmente:
 
 1 - Primeiramente clone o projeto:
 
