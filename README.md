@@ -3,11 +3,10 @@
 
 O jogo Magic Trick tem como objetivo adivinhar a carta que o usuário pensou.
 
-Desktop:
+Para Desktop:
 ![MagicTrickGIF](https://user-images.githubusercontent.com/93163329/173887290-88898d8a-a62b-4cb4-9b69-ab0d10ac293b.gif)
 
-
-Mobile:
+Para Mobile:
 ![MagicTrickGIFResponsivo](https://user-images.githubusercontent.com/93163329/173903905-51ccc36e-03b7-4784-80b2-56afe78e4ddf.gif)
 
 
