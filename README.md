@@ -3,8 +3,7 @@ Projeto Magic Trick
 
 O jogo Magic Trick tem como objetivo adivinhar a carta que o usuário pensou.
 
-![image](https://user-images.githubusercontent.com/93163329/173884712-afb017c9-59c3-486d-818b-9156738a664f.png)
-
+![MagicTrickGIF](https://user-images.githubusercontent.com/93163329/173887290-88898d8a-a62b-4cb4-9b69-ab0d10ac293b.gif)
 
 Procedimento do jogo:
 
