@@ -27,6 +27,7 @@ Se você quiser jogar, acesse o jogo:  https://camila-magic-trick.surge.sh/
 Caso você queira rodar localmente siga as instruções abaixo:
 
 Como executar o projeto localmente:
+
 1 - Primeiramente clone o projeto  
 
 ### `git clone https://github.com/CamilaCoradi/Magic-Trick.git`
